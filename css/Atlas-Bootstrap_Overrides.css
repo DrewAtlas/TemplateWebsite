@@ -1,0 +1,74 @@
+/* Atlas-Bootstrap_Overrides()
+    Purpose:        Overrides some key parts of Bootstrap so that my renderings match my overall theming
+    Author:         Drew Topel
+  Copyright (c) 2009-2017 Atlas Software Services - Licensed to clients for use in their project
+  All Rights Reserved - Used by Permission
+	Ownership and licensed use: The software contained in this file was wholly Created by AtlasSoftwareServices independently 
+ 				from client projects. As such AtlasSoftwareServices retains ownership and can elect to use this code 
+ 				within any client's project when needed. 
+ 				There is NO implied transfer or sharing of ownership of the content of this file when used within a client project
+*/
+.jumbotron {
+	border-style: solid;
+	border-width: 6px;
+	border-radius: 14px;
+	border-color: rgb(168,125,91);
+	background-color: rgb(111,83,59);
+	color: whitesmoke;
+	width: 90%;
+	margin: auto;
+}
+
+.container {
+	margin-left: initial;
+	margin-right: initial;
+}
+
+h1 {
+	background-color: inherit;
+}
+
+h2 {
+	color: whitesmoke;
+	text-align: center;
+	margin: 10px 0px 10px 10%;
+}
+
+.body-content {
+	background-color: transparent;
+	background-image: url("../img/AdminMenuBkgnd.jpg");
+}
+
+.col-md-6 {
+    color: whitesmoke;
+    /* margin: 10px 0px 10px 30px; */
+}
+
+.btn-default {
+	background-color: rgb(111,83,59);
+	color: antiquewhite;
+	border-color: rgb(194, 162, 141);
+	border-style: solid;
+	border-width: 4px;
+	border-radius: 6px;
+	width: 160px;
+}
+
+
+.lead {
+	margin: 20px 30px 0px 30px;
+}
+
+
+title {
+}
+
+
+body {
+}
+
+
+div {
+}
+
+
